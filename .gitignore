@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+.ipynb_checkpoints/
+models/*.pkl
+outputs/*.png
+outputs/*.txt
+.DS_Store
+Thumbs.db
